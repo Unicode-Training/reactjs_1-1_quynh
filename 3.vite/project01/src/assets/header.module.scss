@@ -1,0 +1,12 @@
+$primaryColor: yellow;
+header {
+  background: $primaryColor;
+  padding: 15px 0;
+  h1 {
+    font-style: italic;
+  }
+}
+
+.btn {
+  background: green;
+}
